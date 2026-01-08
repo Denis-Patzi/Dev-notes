@@ -4,7 +4,7 @@ Pequeña colección de extensiones útiles para multimedia, productividad, priva
 
 ---
 
-## TL;DR
+## TL;DR (Resumen rápido):
 - Instala desde Chrome Web Store: haz click en el enlace de cada extensión y pulsa "Agregar a Chrome". 🧭
 - Gestiona extensiones en: chrome://extensions (activar/desactivar y ver permisos). 🔐
 - Usa `Stylus` para personalizar páginas (ideal para arreglar visuales o crear temas propios). 🎨
