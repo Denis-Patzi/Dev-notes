@@ -1,6 +1,8 @@
 # Atajos de Navegación y Multimedia
 
-TL;DR (Resumen rápido): controla pestañas y DevTools con atajos (Ctrl+T, Ctrl+W, Ctrl+Shift+T), usa `K/J/L` en YouTube para reproducir y saltos rápidos, y `Shift+S`/`Win+Shift+S` para recortes. Memoriza 5 atajos y ganarás velocidad. ⚡
+---
+## TL;DR (Resumen rápido): 
+Controla pestañas y DevTools con atajos (Ctrl+T, Ctrl+W, Ctrl+Shift+T), usa `K/J/L` en YouTube para reproducir y saltos rápidos, y `Shift+S`/`Win+Shift+S` para recortes. Memoriza 5 atajos y ganarás velocidad. ⚡
 
 ---
 
