@@ -28,6 +28,7 @@ Comandos y atajos para uso diario.
 
 ### 🖥️ Hardware
 Tareas y procedimientos para hardware, SD y Raspberry Pi.
+- **[ASUS ROG Strix G16 — Cheat Sheet](./hardware/asus-rog-setup.md)** — Atajos de teclado extendidos, tips de hardware y notas rápidas. 
 - **[Limpiar SD](hardware/limpiar-sd.md)** — Formateo y guía con Rufus (Windows).
 - **[Raspberry Pi — energía](hardware/rpi-power.md)** — Manejo de PSU, diagnóstico de parpadeos y SOP.
 - **[Windows hardware commands](hardware/win-specs.md)** — Comandos PowerShell para obtener specs del equipo.
