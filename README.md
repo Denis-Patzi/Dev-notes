@@ -1,16 +1,9 @@
+
 # 🧠 Dev Notes & Knowledge Base
-
-Tu repositorio personal de apuntes, trucos y procedimientos rápidos — ahora más visual y fácil de usar.
-
-Un lugar para guardar soluciones que funcionan, comandos listos para copiar y mini‑guías que te salvan tiempo cuando trabajas en tu máquina o en Raspberry Pi.
+Repositorio personal de apuntes, trucos y procedimientos rápidos — ahora más visual y fácil de usar.
+Un lugar para guardar soluciones que funcionan, comandos listos para copiar y mini‑guías que te salvan tiempo cuando trabajas en tu máquina.
 
 ---
-
-## 🚀 Quickstart — ¿Qué hay aquí?
-- Rápido: abre la carpeta y consulta la nota que necesitas.
-
----
-
 ## 📂 Estructura (navega rápido)
 
 ### 🛠️ Setup & Configuración
@@ -36,5 +29,9 @@ Tareas y procedimientos para hardware, SD y Raspberry Pi.
 - **[Configuración Lenovo](hardware/lenovo-setup.md)** — Ajustes Fn/Ctrl, FnLock y umbrales de batería.
 
 ---
+### 🧾 Tricks
 
+- (Proximamente) 
+
+---
 *Última actualización: Enero 2026*
