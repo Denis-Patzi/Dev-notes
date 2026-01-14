@@ -1,0 +1,12 @@
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+out/
+gen/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de dependencias (por si usas Node.js después)
+node_modules/
