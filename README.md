@@ -14,6 +14,7 @@ Guías para preparar entornos y herramientas.
 ### 📝 02 Quick Reference | Referencia Rápida
 Comandos y atajos para uso diario.
 - **[Git (cheat)](./02-quick-reference/git-cheatsheet.md)** — Flujo de trabajo y comandos frecuentes.
+- **[.gitignore — Guía práctica](./02-quick-reference/gitignore-guide.md)** — Cómo crear y mantener un `.gitignore`.
 - **[VS Code](./02-quick-reference/vsc-tips.md)** — Atajos, comandos y extensiones recomendadas.
 - **[Windows shortcuts](./02-quick-reference/windows-shortcuts.md)** — Atajos principales para productividad (sin atajos de terminal, sólo GUI/OS).
 - **[Browser & media shortcuts](./02-quick-reference/browser-media.md)** — Atajos para Chrome, YouTube y DevTools.
