@@ -32,6 +32,27 @@ Write-Host "MemoryDevices (slots):" -NoNewline; Write-Host $info.MemoryDevices -
 
 > Tip: `MemoryDevices` es la cantidad de ranuras (slots). Si MaxCapacity es 65536 -> 64 GB.
 
+
+
+### ⚡ Ver módulos, velocidad y generación DDR
+Este comando muestra:
+- la ranura del módulo,
+- la generación de la RAM según SMBIOS,
+- la velocidad certificada,
+- y la velocidad a la que realmente está funcionando.
+
+
+```powershell
+Write-Host "--- DATOS DE LA MEMORIA RAM ---" -ForegroundColor Cyan
+
+Get-CimInstance Win32_PhysicalMemory |
+    Format-Table DeviceLocator, SMBIOSMemoryType, Speed, ConfiguredClockSpeed -AutoSize
+```
+### 🧾 Cómo interpretar el resultado
+Fíjate en la columna SMBIOSMemoryType, porque indica la generación de tu memoria RAM:
+- 24 = DDR3
+- 26 = DDR4
+- 34 = DDR5
 ---
 
 ## 🧩 2) Procesador (CPU)
